@@ -20,7 +20,7 @@ Topic research involves gathering and synthesizing information on a specific sub
 - An overview or report detailing the key aspects of the topic, including important findings and areas needing further investigation.
 
 ## List of topics
-- [Environmental Pollution and Possible Association with IBS](#) : IBS has been correlated with factors of environmental pollution. In this article we will try to find evidences of such association.
-- [Exercise can positively correlated with reduced probality of cardiovascular diseases](#) : We have tried to look into researches that have confirmed that physical exercise have positively reduced the risk of heart diseases. 
+- [Environmental Pollution and Possible Association with IBS](#) ![Static Badge](https://img.shields.io/badge/Not%20Started-red): : IBS has been correlated with factors of environmental pollution. In this article we will try to find evidences of such association.
+- [Exercise can positively correlated with reduced probality of cardiovascular diseases](#) ![Static Badge](https://img.shields.io/badge/Not%20Started-red): : We have tried to look into researches that have confirmed that physical exercise have positively reduced the risk of heart diseases. 
 
 
