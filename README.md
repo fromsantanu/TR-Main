@@ -1,6 +1,6 @@
 # Topic Research
 ## About
-### What is topic research:
+### What is Topic Research:
 Topic research involves gathering and synthesizing information on a specific subject. It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 
 ### Video Explanation
