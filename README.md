@@ -1,4 +1,4 @@
-# Topic Research
+# Topic Research ![HitCount](https://hits.dwyl.com/fromsantanu/TR-Main.svg)
 ## About
 ### What is Topic Research:
 Topic research involves gathering and synthesizing information on a specific subject. It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
